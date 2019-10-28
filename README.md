@@ -9,7 +9,7 @@ The Pogo-stick is a hybrid dynamical systems with two modes -
 
 • On the ground, when it is just a Linear Spring-Mass-Damper system subject to Mass having an initial velocity vertically.    
 
-Note: This is just a simple representation of such a system using Matlab's in-built ODE45 integration scheme. It is meant to be a starting point for people interested in exploring further and there are way more sophsiticated ways to integrate such systems.
+Note: This is just a simple representation of such a system using Matlab's in-built ODE45 integration scheme. It is meant to be a starting point for people interested in exploring further and there are more sophsiticated ways to integrate such systems.
 
 The Single-plane drone model is a non-linear system which in our case is linearized and linear counterpart is simulated. You can go ahead and simulate the actual non-linear system for the same input thrusts. <br/>
 
