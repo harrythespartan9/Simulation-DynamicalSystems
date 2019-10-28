@@ -1,6 +1,10 @@
 % This script runs an animation for a simplified single plane quadcopter.
 % Here, the model simulates two sets of thrusters each on different ends of
 % the base.
+% Also please NOTE that the simulation starts from a point of equilibrium
+% and simulates the LINEARIZED version of the system (based on Taylor's
+% series expansion). You can modify the code to simulate the non-linear
+% system.
 
 % Written By: Hari Krishna Hari Prasad
 % Affili    : Autonomous Insect Robotics Laboratory, ME, UW.
