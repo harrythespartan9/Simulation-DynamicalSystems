@@ -5,9 +5,9 @@ Feel free to play around with the code and reproduce modifications of it for any
 This package also hosts a Pogo-stick and a single plane drone model which differ from the previous examples.   <br/>
 The Pogo-stick is a hybrid dynamical systems with two modes -  
 
-• In the air when it is just a rigid body in free-fall.    
+• aerial phase: a rigid body in free-fall.    
 
-• On the ground, when it is just a Linear Spring-Mass-Damper system subject to Mass having an initial velocity vertically.    
+• ground phase: a Linear Spring-Mass-Damper system having an initial velocity vertically.    
 
 Note: This is just a simple representation of such a system using Matlab's in-built ODE45 integration scheme. It is meant to be a starting point for people interested in exploring further and there are more sophsiticated ways to integrate such systems.
 
